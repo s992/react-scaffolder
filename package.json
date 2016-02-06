@@ -1,0 +1,17 @@
+{
+  "name": "react-scaffold",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sean Walsh <sean.walsh87+npm@gmail.com> (http://swalsh.org/)",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.2.1",
+    "tif-parser": "0.3.2",
+    "yargs": "3.32.0"
+  }
+}
